@@ -49,7 +49,7 @@ function App() {
 
         <section className="page__intro">
           <h1>הקטלוג</h1>
-          <p>סרטים שכדאי לראות — הישנים הטובים והחדשים.</p>
+          <p>סרטים שכדאי לראות — הישנים הטובים והחדשים..</p>
         </section>
 
         <MovieList title="הכי מדורגים" movies={topRated} />
